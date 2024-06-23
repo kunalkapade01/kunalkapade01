@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Data Analysis, Machine Learning Algorithm and predictive modeling projects .**
 
-- 📫 How to reach me **kunalkapade01@gmail@.com**
+- 📫 How to reach me **kunalkapade01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
