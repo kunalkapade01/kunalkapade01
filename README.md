@@ -25,3 +25,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunalkapade01&show_icons=true&locale=en" alt="kunalkapade01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalkapade01&" alt="kunalkapade01" /></p>
+
+
+
+# 📊 GitHub Stats:
+<!--
+[![Durgesh GitHub | Stats](https://stats.quine.sh/durgeshkapade/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=durgeshkapade)
+[![Durgesh GitHub | Dependencies](https://stats.quine.sh/durgeshkapade/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=durgeshkapade)
+-->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kunalkapade01&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kunalkapade01&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kunalkapade01&theme=github_dark)
