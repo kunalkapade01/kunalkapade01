@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kunalkapade01@gmail.com**
 
-- - 🌐 Check out my portfolio at **[Kunal Kapade Portfolio](https://kunal-kapade-portfolio.my.canva.site/)**
+- 🌐 Check out my portfolio:- **[Visit My Portfolio](https://kunal-kapade-portfolio.my.canva.site/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
