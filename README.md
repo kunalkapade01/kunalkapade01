@@ -1,3 +1,9 @@
+<h1 align="center"> 
+ 
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&random=false&width=280&lines=Hi+there+.+I'm+Kunal+!+👋🏻)](https://github.com/smilewithkhushi)
+
+<img align="center" src="https://c.tenor.com/neqnFd4CHWAAAAAC/up-wave.gif" width=150 />  </h1>
+
 <h1 align="center">Hi 👋, I'm KUNAL KAPADE</h1>
 <h3 align="center">Passionate Data Analyst / Data Scientist💻 | Expert in Machine Learning model, Statistical Analysis, Database SQL and Data Visualization tools like Power-BI, AI, Neural Network, Deep Learning, NLP, Gen AI, Google Cloud, AWS, Advanced Excel..</h3>
 
