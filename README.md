@@ -46,6 +46,4 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kunalkapade01&theme=github_dark)
 
 <!-- Snake Game -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kunalkapade01/kunalkapade01/main/github-snake-dark.svg" alt="ERROR:404 XoX" title="Ohh No, it's eating my contributions from the graph">
-</div>
+
