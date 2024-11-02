@@ -5,9 +5,10 @@
 <img align="center" src="https://c.tenor.com/neqnFd4CHWAAAAAC/up-wave.gif" width=150 />  </h1>
 
 <h1 align="center">Hi 👋, I'm KUNAL KAPADE</h1>
-<h3 align="center">Passionate Data Analyst / Data Scientist💻 | Expert in Machine Learning model, Statistical Analysis, Database SQL and Data Visualization tools like Power-BI, AI, Neural Network, Deep Learning, NLP, Gen AI, Google Cloud, AWS, Advanced Excel..</h3>
+<h3 align="center">Passionate Data Analyst / Data Scientist💻 | Expert in Machine Learning model, Statistical Analysis, Database SQL, PostgreSQL and Data Visualization tools like Power-BI, AI, Neural Network, Deep Learning, NLP, Gen AI, Google Cloud-(GCP), AWS, Advanced Excel..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalkapade01&label=Profile%20views&color=0e75b6&style=flat" alt="kunalkapade01" /> </p>
+
 
 - 🔭 I’m currently working on **Data Analytics & Machine Learning model with Artificial Intelligence(AI).**
 
