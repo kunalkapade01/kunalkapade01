@@ -12,9 +12,9 @@
 
 - 🔭 I’m currently working on **Data Analytics & Machine Learning model with Artificial Intelligence(AI).**
 
-- 🌱 I’m currently learning **Advanced ML Algorithms, Neural Network, Deep Learning techniques, and AI🤖 applications.**
+- 🌱 I’m currently learning **Advanced ML Algorithms, Neural Network, Deep Learning techniques, & AI🤖 applications like Gen AI.**
 
-- 👯 I’m looking to collaborate on **Data Analysis, Machine Learning Algorithm and predictive modeling projects .**
+- 👯 I’m looking to collaborate on **Data Analysis, Machine Learning Algorithm and Data Scientist.**
 
 - 📫 How to reach me **kunalkapade01@gmail.com**
 
