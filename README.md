@@ -1,11 +1,11 @@
-<h1 align="center"> 
+ <h1 align="center"> 
  
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&random=false&width=280&lines=Hi+there..+I'm+Kunal..+!+👋🏻)](https://github.com/smilewithkhushi)
 
 <img align="center" src="https://c.tenor.com/neqnFd4CHWAAAAAC/up-wave.gif" width=150 />  </h1>
 
 <h1 align="center">Hi 👋, I'm KUNAL KAPADE</h1>
-<h3 align="center">Passionate Data Analyst / Data Scientist💻 | Expert in Machine Learning model, Statistical Analysis, Database SQL, PostgreSQL and Data Visualization tools like Power-BI, Artificial Intelligence (AI), Neural Network, Deep Learning, TensorFlow, NLP, Gen AI, Google Cloud-(GCP), AWS, Advanced Excel..</h3>
+<h3 align="center">Passionate Data Analyst / Data Scientist💻 | Expert in Machine Learning model, Statistical Analysis, Database SQL, PostgreSQL and Data Visualization tools like Power-BI, Artificial Intelligence (AI), Neural Network(NN), Deep Learning(DL), TensorFlow, NLP, Gen AI, Google Cloud-(GCP), AWS, Advanced Excel..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalkapade01&label=Profile%20views&color=0e75b6&style=flat" alt="kunalkapade01" /> </p>
 
