@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Python, SQL, Data Analytics & Machine Learning model with Artificial Intelligence(AI), GenAI.**
 
-- 🌱 I’m currently learning **Advanced ML Algorithms, TensorFlow, Scikit-Learn, Neural Network, Deep Learning techniques, & AI🤖 applications like Gen AI, NLP, Google Cloud, LLM, GenAI**
+- 🌱 I’m currently learning **Advanced ML Algorithms, TensorFlow, Scikit-Learn, Neural Network, Deep Learning techniques, & AI🤖 Applications like Gen AI, NLP, Google Cloud, LLM, GenAI**
 
 - 👯 I’m looking to collaborate on **Data Analysis, Database SQL, Postgresql, Machine Learning Algorithm and Data Scientist - AI & Data Engineer & Cloud.**
 
