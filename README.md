@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Advanced ML Algorithms, TensorFlow, Pytorch, Scikit-Learn, Neural Network, Deep Learning techniques, & AI🤖 Applications like Gen AI, NLP, Google Cloud..**
 
-- 👯 I’m looking to collaborate on **Data Analysis, Database SQL, Postgresql, Machine Learning Algorithm and Data Scientist - AI & Data Engineer, Python..**
+- 👯 I’m looking to collaborate on **Data Analysis, Database SQL, Postgresql, Machine Learning Algorithm and Data Scientist - AI & Data Engineer, Advanced Python..**
 
 - 📫 How to reach me **kunalkapade01@gmail.com**
 
