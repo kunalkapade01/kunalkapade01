@@ -11,10 +11,10 @@
 
 
 - 🔭 I’m currently working on **Python, SQL, Data Analytics & Machine Learning model with Artificial Intelligence(AI), GenAI, AI Agents, TensorFlow, Power-BI, etc..**
-
+- 
 - 🌱 I’m currently learning **Advanced ML Algorithms, TensorFlow, Pytorch, Scikit-Learn, Neural Network, Deep Learning Techniques, & Agentic AI🤖 Applications like Gen AI, LLM, Google Cloud..**
 
-- 👯 I’m looking to collaborate on **Data Analysis, Database SQL, Postgresql, Machine Learning Algorithm and Data Scientist - AI & Fine-Tuning Model, Adv Python, GenAI...**
+- 👯 I’m looking to collaborate on **Data Analysis, Database SQL, Postgresql, Machine Learning Algorithm and Data Scientist - AI & Fine-Tuning Model, Adv Python, GenAI, Cloud...**
 
 - 📫 How to reach me **kunalkapade01@gmail.com**
 
