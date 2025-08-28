@@ -1,4 +1,4 @@
- <h1 align="center"> 
+   <h1 align="center"> 
  
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&random=false&width=280&lines=Hi+there..+I'm+Kunal..+!+👋🏻)](https://github.com/smilewithkhushi)
 
@@ -9,8 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalkapade01&label=Profile%20views&color=0e75b6&style=flat" alt="kunalkapade01" /> </p>
 
-
-- 🔭 I’m currently working on **Python, SQL, Data Analytics & Machine Learning model with Artificial Intelligence(AI), GenAI, AI Agents, TensorFlow, Power-BI, etc..**
+- 🔭 I’m currently working on **Adv. Python, SQL, Data Analytics & Machine Learning model with Artificial Intelligence(AI), GenAI, AI Agents, TensorFlow, Power-BI, etc..**
   
 - 🌱 I’m currently learning **Advanced ML Algorithms, TensorFlow, Pytorch, Scikit-Learn, Neural Network, Deep Learning Techniques, Azure, Pyspark & Agentic AI🤖 Applications like Gen AI, LLM, Google Cloud..**
 
