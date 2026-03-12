@@ -1,4 +1,4 @@
-m<h1 align="center"> 
+<h1 align="center"> 
  
    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&random=false&width=280&lines=Hi+there..+I'm+Kunal..+!+👋🏻)](https://github.com/smilewithkhushi)
 
