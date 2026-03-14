@@ -9,11 +9,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalkapade01&label=Profile%20views&color=0e75b6&style=flat" alt="kunalkapade01" /> </p>
 
-- 🔭 I’m currently working on **Adv. Python, SQL, Data Analytics & Machine model with Artificial Intelligent-(AI), Numpy, Pandas, Statistics, Data Validation, GenAI, AI Agents, Data Science, TensorFlow, Power-BI, Excel, ETL, Java, etc..**
+- 🔭 I’m currently working on **Adv. Python, SQL, Data Analytics & Machine Learning model with Artificial Intelligent-(AI), Numpy, Pandas, Statistics, Data Validation, GenAI, AI Agents, Data Science, TensorFlow, Power-BI, Excel, ETL, Java, etc..**
   
 - 🌱 I’m currently learning **Adv. ML Algorithms, TensorFlow, Pytorch, Scikit-Learn, Neural Network, Deep Learning Techniques, Azure, Cloud Run & Agentic AI🤖 Applications like Gen AI, LLM, Google Cloud (GCP), ADK, AlloyDB, MCP, Gemini CLI..**
 
-- 👯 I’m looking to collaborate on **Data Analyst, Database SQL, Postgresql, Machine Learning Algorithm and Data Scientist - AI Agents & Fine-Tuning Model, GenAI, Cloud Run, Data Engineer...**
+- 👯 I’m looking to collaborate on **Data Analyst, Database SQL, Postgresql, Machine Learning Algorithm and Data Scientist - AI Agents & Fine-Tuning Model, LLM, GenAI, Cloud Run, Data Engineer...**
 
 - 📫 How to reach me **kunalkapade01@gmail.com**
 
