@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working on **Adv. Python, SQL, Data Analytics & Machine Learning model with Artificial Intelligence-(AI), Numpy, Pandas, Statistics, Data Validation, GenAI, AI Agents, Data Science, TensorFlow, Power-BI Tool, Excel, ETL, Java, etc..**
   
-- 🌱 I’m currently learning **Adv. Machine Learning Algorithms, TensorFlow, Pytorch, Scikit-Learn, Neural Network, Deep Learning Techniques, Azure, Cloud Run & AI Agents🤖, Applications like Gen AI, LLM, Google Cloud (GCP), ADK, AlloyDB, MCP, Gemini CLI..**
+- 🌱 I’m currently learning **Adv. Machine Learning Algorithms, Tensow, Pytorch, Scikit-Learn, Neural Ne, Deep Le Techniques, Azure, Cloud Run & AI Agents🤖, Applications like Gen AI, LLM, Google Cloud (GCP), ADK, AlloyDB, MCP, Gemini CLI..**
 
-- 👯 I’m looking to collaborate on **Data Analyst, Database SQL, Postgresql, Machine Learning Algorithm and Data Scientist, Neural Network - AI Agents & Fine-Tuning Model, LLM, GenAI, Agntic AI, Data Engineer...**
+- 👯 I’m looking to collaborate on **Data Ana, Database SQL, Postgresql, Machine Learning Algorithm and Data Scientist, Neural Network - AI Agents & Fine-Tuning Model, LLM, GenAI, Agntic AI, Data Engineer...**
 
 - 📫 How to reach me **kunalkapade01@gmail.com**
 
