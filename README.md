@@ -5,12 +5,12 @@
 <img align="center" src="https://c.tenor.com/neqnFd4CHWAAAAAC/up-wave.gif" width=150 />  </h1>
 
 <h1 align="center">Hi 👋, I'm KUNAL KAPADE</h1>
-<h3 align="center">Passionate Data Analyst / Data Scientist💻 | Adv. Python, Expert in Machine Learining Algorithm, Agentic AI Application, GenAI, Statistical Analysis, Database SQL, PostgreSQL and Data Visualization tools like Power-BI,  Artifical Intelligence (AI), Neural Network, Deep Learning, TensorFlow, Scikit-Learn, Pytorch, GenAI, GCP, Excel ..</h3>
+<h3 align="center">Exp.- 1.3+yrs, Passionate Data Analyst / Data Scientist💻 | Adv. Python, Expert in Machine Learining Algorithm, AI Agents, Agentic AI Application, GenAI, Statistical Analysis, Database SQL, PostgreSQL, Numpy, Power-BI,  Artifical Intelligence (AI), Neural Network, Deep Learning, TensorFlow, Scikit-Learn, Pytorch, GCP, LLM ..</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalkapade01&label=Profile%20views&color=0e75b6&style=flat" alt="kunalkapade01" /> </p>
 
 - 🔭 I’m currently working on **Adv. Python, SQL, Data Analytics & Machine Learning model with Artificial Inte-(AI), Pandas, Statistics, Data Validation, GenAI, AI Agents, Data Science, TensorFlow, Power-BI Tool, Excel, ETL, Java, etc..**
   
-- 🌱 I’m currently learning **Adv. Machine Learning Algorithms (ML), Tensow, Pytorch, Scikit-Learn, Neural Network, Deep Learning Techniques, Azure, Cloud Run & AI Agents🤖, Applications like Gen AI, LLM, Google Cloud (GCP), ADK, AlloyDB, MCP, Gemini CLI..**
+- 🌱 I’m currently learning **Adv. Machine Learning Algorithms (ML), Tensorflow, Pytorch, Scikit-Learn, Neural Network, Deep Learning Techniques, Azure, Cloud Run & AI Agents🤖, Applications like Gen AI, LLM, Google Cloud (GCP), ADK, AlloyDB, MCP, Gemini CLI..**
 
 - 👯 I’m looking to collaborate on **Data Analyst, Database SQL- Postgresql, Machine Learning Algorithm and Data Scientist, Neural Network - AI Agents & Fine-Tuning Model, LLM, GenAI, Agentic AI, Data Engineer...**
 
