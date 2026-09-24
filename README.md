@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Adv. Python, SQL, Data Analytics & Machine Learning model with Artificial Inte-(AI), Pandas, Statistics, Data Validation, GenAI, AI Agents, Data Science, TensorFlow, Power-BI Tool, Excel, ETL, Java, etc..**
   
-- 🌱 I’m currently learning **Adv. Machine Learning Algorithms (ML), Tensorflow, Pytorch, Scikit-Learn, Neural Network, Deep Learning Techniques, Azure, Cloud Run & AI Agents🤖, Applications like Gen AI, LLM, Google Cloud (GCP), ADK, AlloyDB, MCP, Gemini CLI..**
+- 🌱 I’m currently learning **Adv. Machine Learning Algorithms (ML), Tensorflow, Pytorch, Scikit-Learn, Neural Network, Deep Learning Techniques, Azure, Cloud Run & AI Agents🤖, Applications like Gen AI, LLM, Google Cloud (GCP), ADK, AlloyDB, MCP, Gemini CLI, Langchain..**
 
 - 👯 I’m looking to collaborate on **Data Analyst, Database SQL- Postgresql, Machine Learning Algorithm and Data Scientist, Neural Network - AI Agents & Fine-Tuning Model, LLM, GenAI, Agentic AI, Data Engineer...**
 
